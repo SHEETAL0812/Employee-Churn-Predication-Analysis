@@ -1,4 +1,4 @@
-# Employee-Churn-Predication-Analysis by Using Decision Tree and Logistic Regression Models
+# Employee-Churn-Prediction-Analysis by Using Decision Tree and Logistic Regression Models
 A Data Mining Project on Human Resources Analytics - Employee Churn Predication Analysis 
 
 # Client: Progressive Limited
